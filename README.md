@@ -1,4 +1,4 @@
-# CoreDB-C
+# DB-C
 
 Este es un proyecto de aprendizaje hecho en C
 
